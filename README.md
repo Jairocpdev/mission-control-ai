@@ -1,8 +1,11 @@
 # 🚀 Mission Control AI
 
-IA que prevê falha de satélites consumindo a API Go `mission-control-go`.
+[![AI API LIVE](https://img.shields.io/badge/AI%20API-LIVE-success?style=for-the-badge)](https://mission-control-ai.onrender.com)
+[![Go API](https://img.shields.io/badge/Go%20API-https://mission--control--go.onrender.com-blue)](https://mission-control-go.onrender.com)
 
-**Baseado nos seus repos:** `rag-agent` (FastAPI + FAISS) e `ml-titanic` (67.1% acurácia Sklearn)
+Consome `https://mission-control-go.onrender.com/history/SAT-01` e prevê falha com LinearRegression.
+
+**Teste:** https://mission-control-ai.onrender.com/predict/SAT-01
 
 ## O que faz
 
